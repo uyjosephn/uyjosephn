@@ -1,4 +1,4 @@
-###### Hey, I'm Joseph!
+# Hey, I'm Joseph!
 - 🔭 I’m currently learning and being a Certified Data Management Professional
 
 <!--
