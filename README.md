@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+function test() {
+ console.log("look ma’, no spaces");
+}
+
 <!--
 **uyjosephn/uyjosephn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
