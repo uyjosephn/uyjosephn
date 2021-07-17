@@ -1,5 +1,5 @@
 # Hey, I'm Joseph!
-- 🔭 I’m currently learning and being a Certified Data Management Professional
+- 🔭 I’m currently learning and trying to be a Certified Data Management Professional
 
 <!--
 **uyjosephn/uyjosephn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
