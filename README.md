@@ -3,6 +3,8 @@
 - Certified Scrum Master (ScrumAlliance.org)
 - DevOps Foundation Certification
 
+🔭 18 years Software development experience: 5 years backend Java developer, 13+ years VB/C#.net developer
+
 ~~🌱 I’m currently learning and trying to be a Certified Data Management Professional~~\
 🌱 I’m currently learning and trying to be an AWS Certified Solutions Architect \
 🌱 I’m currently learning and trying to be an Oracle Certified Associate/Professional 
