@@ -1,5 +1,5 @@
 # Hey, I'm Joseph!
-~~ 🔭 I’m currently learning and trying to be a Certified Data Management Professional
+~~ 🔭 I’m currently learning and trying to be a Certified Data Management Professional ~~
 - Certified Data Management Professional (DAMA International)
 - Certified Scrum Master (ScrumAlliance.org)
 - DevOps Foundation Certification
