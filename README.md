@@ -7,7 +7,6 @@
 🌱 I’m currently learning and trying to be an AWS Certified Solutions Architect \
 🌱 I’m currently learning and trying to be an Oracle Certified Associate/Professional 
 
-📫 Email me: uyjosephn@gmail.com
 
 <!--
 **uyjosephn/uyjosephn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
