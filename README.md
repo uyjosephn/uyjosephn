@@ -1,11 +1,12 @@
 # Hey, I'm Joseph!
-~~ 🔭 I’m currently learning and trying to be a Certified Data Management Professional ~~
 - Certified Data Management Professional (DAMA International)
 - Certified Scrum Master (ScrumAlliance.org)
 - DevOps Foundation Certification
-- 🔭 I’m currently learning and trying to be an AWS Certified Solutions Architect
-- 🔭 I’m currently learning and trying to be an Oracle Certified Associate/Professional
+~~🌱 I’m currently learning and trying to be a Certified Data Management Professional~~
+- 🌱 I’m currently learning and trying to be an AWS Certified Solutions Architect
+- 🌱 I’m currently learning and trying to be an Oracle Certified Associate/Professional
 
+- 📫 Email me: uyjosephn@gmail.com
 
 <!--
 **uyjosephn/uyjosephn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
