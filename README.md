@@ -1,9 +1,4 @@
 # Hey, I'm Joseph!
-- Certified Data Management Professional (DAMA International)
-- Certified Scrum Master (ScrumAlliance.org)
-- DevOps Foundation Certification (DevOps Institute)
-
-🔭 18 years Software development experience: 5 years Java backend developer, 13+ years VB/C#.net developer
 
 
 <!--
